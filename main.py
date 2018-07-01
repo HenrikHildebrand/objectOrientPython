@@ -5,3 +5,5 @@ from worker import Worker
 
 developer = Worker("Henke", "Programmerare")
 developer.printMe()
+
+print("Test successful!")
